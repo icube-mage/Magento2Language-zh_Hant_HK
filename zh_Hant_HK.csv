@@ -2018,7 +2018,7 @@ Change,更改,module,Magento_Customer
 "Contact Information",個人資料,module,Magento_Customer
 "Change Password",更改密碼,module,Magento_Customer
 Newsletters,訂閱資訊,module,Magento_Customer
-"You subscribe to ""General Subscription"".","您已訂閱EugeneBaby.com的最新資訊。",module,Magento_Customer
+"You subscribe to ""General Subscription"".","您已訂閱4Deco的最新資訊。",module,Magento_Customer
 or,或者,module,Magento_Customer
 "Default Addresses",通訊錄,module,Magento_Customer
 "Change Billing Address",更改賬單地址,module,Magento_Customer
@@ -6091,7 +6091,7 @@ OK,確定,module,Magento_Checkout
 "Please use only letters (az or AZ), numbers (0-9), spaces and ""#"" in this field.","請只使用字母(a 到z 或A 到Z)，數字(0- 9)，空格和""#""在這一領域。",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","請輸入有效的電話號碼。例如(123) 456-7890 或123-456-7890。",module ,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","請輸入有效的傳真號碼 (Ex: 123-456-7890)。",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電郵地址（E.g. chantaiman123@eugenebaby.com）。",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電郵地址（E.g. yourname@domain.com）。",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","請輸入 7 或更多個字符，使用數字和字母。",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","請輸入一個有效的URL。協議是需要(http://、 https://或ftp: / /)。",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","請輸入一個有效的URL。例如http://www.example.com 或www.example. com。",module,Magento_Ui
