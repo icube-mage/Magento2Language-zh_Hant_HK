@@ -118,7 +118,7 @@ Shipping,運費,module,Magento_Backend
 "All Store Views",所有商店視圖,module,Magento_Backend
 "What is this?",這是什麼？ ,module,Magento_Backend
 "Save Account",保存帳戶信息,module,Magento_Backend
-"My Account",我的賬戶,module,Magento_Backend
+"My Account",賬戶資料,module,Magento_Backend
 "Account Information",個人資料,module,Magento_Backend
 "User Name",用戶名稱,module,Magento_Backend
 "First Name",名字,module,Magento_Backend
@@ -1858,7 +1858,7 @@ Download,下載,module,Magento_Customer
 "We're unable to send the password reset email.",我們無法發送重新設置密碼的電子郵件。 ,module,Magento_Customer
 "Please enter your email.",請輸入您的電子郵箱地址。 ,module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","密碼重設連結已發送至您的電郵地址。" ,module,Magento_Customer
-"My Account",我的賬戶,module,Magento_Customer
+"My Account",賬戶資料,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","此帳戶尚未確認。<a href=""%1""> 點擊這裡</a> 重新發送確認電子郵件。",module,Magento_Customer
 "Invalid login or password.",電郵地址或密碼錯誤。,module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.",發生未知的錯誤。如需協助，聯繫我們。 ,module,Magento_Customer
@@ -6824,7 +6824,7 @@ Addresses,地址,module,Magento_Customer
 "Account Dashboard",賬戶資料,module,Magento_Customer
 "Edit Account Information",編輯帳戶信息,module,Magento_Customer
 "Password forgotten",密碼忘記了,module,Magento_Customer
-"My Dashboard",我的賬戶資料,module,Magento_Customer
+"My Dashboard",賬戶資料,module,Magento_Customer
 "You are signed out",您已登出,module,Magento_Customer
 "Frontend Development Workflow",前端開發流程,module,Magento_Developer
 "Workflow type",流程類型,module,Magento_Developer
@@ -7687,9 +7687,9 @@ Name,名字,module,Magento_Variable
 "CMS Page Link Block Template","CMS 頁面鏈接塊模板",module,Magento_Widget
 "CMS Page Link Inline Template","CMS 頁面鏈接內聯模板",module,Magento_Widget
 "Display a Link to Loading a Spreadsheet",加載的SKU的列表,module,Magento_Widget
-"Defines whether a link to My Account",定義是否鏈接到我的賬戶,module,Magento_Widget
+"Defines whether a link to My Account",定義是否鏈接到賬戶資料,module,Magento_Widget
 "Link Text",鏈接文本,module,Magento_Widget
-"The text of the link to the My Account &gt; Order by SKU page","文本，鏈接到我的賬戶 &gt; SKU 頁按順序排列",module,Magento_Widget
+"The text of the link to the My Account &gt; Order by SKU page","文本，鏈接到賬戶資料 &gt; SKU 頁按順序排列",module,Magento_Widget
 "Load a list of SKUs","加載 Sku 的列表",module,Magento_Widget
 Product,產品,module,Magento_Widget
 "Select Product...",選擇產品...,module,Magento_Widget
