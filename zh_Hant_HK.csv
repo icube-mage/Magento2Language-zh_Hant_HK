@@ -8244,3 +8244,10 @@ Appearance,Appearance,module,Mirasvit_SearchAutocomplete
 "Comments","意見",module,Mageplaza_Osc
 Information,資訊,module,Mirasvit_Search
 "OR",或,module,Plumrocket_SocialLoginPro
+City,地區
+State/Province,區域
+"Phone Number",聯絡流動電話號碼,module,Magento_Contact
+Delivery Date,送貨日期
+Delivery Timeslot,送貨時間
+Cardholder Name,持卡人姓名
+The CLUB Membership ID,THE CLUB會員號碼
